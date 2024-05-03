@@ -1,18 +1,17 @@
 # geo-area-calculator
 
-Вычисление площади полигона в координатах WGS'84. Порт Python-алгоритма на PHP и JS.
-Статья источник: http://gis-lab.info/qa/polygon-area-sphere-ellipsoid.html
+Calculation of polygon area in WGS'84 coordinates. Port of the Python algorithm to PHP and JS.
 
-# Установка
-В корне модуля:
+# Install
+In the project root folder:
 ```sh
 .../geo-area-calculator$ composer install
 ```
-Если необходимы js-тесты:
+If js tests needed:
 ```sh
 .../geo-area-calculator$ npm install
 ```
-# Тесты
+# Tests
 PHP
 -----
 ```sh
@@ -25,7 +24,7 @@ JavaScript
 .../geo-area-calculator$ npm test
 ```
 
-# Примеры
+# Examples
 
 JavaScript
 -----
